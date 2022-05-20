@@ -51,9 +51,9 @@ Applications of advanced algorithms and sequencing technologies across a wide ar
 
 # Program Committee Members
 
-- **Ruli Gao**, Houston Methodist Hospital
+- **Yan Li**, BGI Research
 
-- **Wenji Ma**, Chinese Academy of Science
+- **Zhengmiao Zhang**, Hong Kong Baptist University
 
 - **Yong Fei Wang**, The University of Hong Kong
 
