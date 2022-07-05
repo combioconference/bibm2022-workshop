@@ -63,6 +63,9 @@ Applications of advanced algorithms and sequencing technologies across a wide ar
 
 - **Can Luo**, Vanderbilt University
 
+- **Huaming Chen**, University of Sydney
+
+
 
 
 # Workshop Submission Requirement
