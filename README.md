@@ -28,11 +28,11 @@ Applications of advanced algorithms and sequencing technologies across a wide ar
 
 # Important Dates (Tentative)
 
-- **Oct. ~~10~~30, 2022**: Due date for full workshop paper submission
+- ~~Oct. 10~~ **Oct. 30, 2022**: Due date for full workshop paper submission
 
-- **Nov. 5, 2022**: Notification of paper acceptance to authors
+- ~~Nov. 5~~ **Nov. 15, 2022**: Notification of paper acceptance to authors
 
-- **Nov. 21, 2022**: Camera-ready of accepted papers
+- ~~Nov. 21~~ **Nov. 22, 2022**: Camera-ready of accepted papers
 
 - **Dec. 6-9, 2022**: Workshops
 
