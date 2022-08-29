@@ -80,3 +80,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 
 **Submit a paper** [Click here](https://wi-lab.com/cyberchair/2022/bibm22/scripts/submit.php?subarea=S07&undisplay_detail=1&wh=/cyberchair/2022/bibm22/scripts/ws_submit.php
 )
+
+# Registration
+
+At least one author of an accepted paper needs to register as one full registration in order to have the paper published in the conference proceedings.
