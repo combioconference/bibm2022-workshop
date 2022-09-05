@@ -34,7 +34,7 @@ Applications of advanced algorithms and sequencing technologies across a wide ar
 
 - ~~Nov. 21~~ **Nov. 22, 2022**: Camera-ready of accepted papers
 
-- **Dec. 6-9, 2022**: Workshops
+- **Dec. 6-7, 2022**: Workshops
 
 # Program Chairs
 - **Xin Maizie Zhou**, Department of Biomedical Engineering and Computer Science, Vanderbilt University
