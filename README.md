@@ -61,8 +61,6 @@ Applications of advanced algorithms and sequencing technologies across a wide ar
 
 - **Zheng Hu**, University of Chinese Academy of Sciences
 
-- **Can Luo**, Vanderbilt University
-
 - **Huaming Chen**, University of Sydney
 
 
