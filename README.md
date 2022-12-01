@@ -1,3 +1,7 @@
+---
+image: fd.jpeg
+---
+
 <p align="right">
   in conjunction with
   <a href="http://ieeebibm.org/BIBM2022/" target="_blank">IEEE BIBM 2022</a>
