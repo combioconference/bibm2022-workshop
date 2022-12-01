@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+logo: fd.jpeg
 title: Computational methods to characterize genomic variants using high-throughput sequencing data
 github:
   is_project_page: false
