@@ -82,3 +82,24 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 # Registration
 
 At least one author of an accepted paper needs to register as one full registration in order to have the paper published in the conference proceedings.
+
+
+# Workshop schedule
+
+Tuesday, December 7, 2022
+The workshop schedule is based on USA PST Time
+Caesar Palace, Las Vegas, USA
+Room: Pisa
+
+
+| time  | title | Second Header |Presenter/Author|
+| ------------- | ------------- | ------------- |
+| 2:00pm-2:20pm  | High-resolution sample size enrichment of single-cell multi-modal low-throughput Patch-seq datasets  | Lorenzo Martini, Roberta Bardini, Alessandro Savino, and Stefano Di Carlo  |
+| 2:20pm-2:40pm  | Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model  | Can Luo, Parth Datar, Yichen Henry Liu, and Xin Zhou |
+| 2:40pm-3:00pm  | Reliable tumor evolution estimates using bulk sequencing data	|
+Jared Huzar, Madelyn Shenoy, Maxwell Sanderford, Sudhir Kumar, and Sayaka Miura  |
+| 3:00pm-3:20pm | Targeted Next generation Sequencing Reveals the Genetic Mechanism of Chinese Marfan syndrome Cohort with Ocular Manifestation| Dongming Han, Wei Li, Ziwei Wang, Sicheng Guo, Jiayu Gao, and Jiankang Li |
+
+
+
+
