@@ -87,7 +87,7 @@ At least one author of an accepted paper needs to register as one full registrat
 # Workshop schedule
 
 
-The workshop will be held on **Tuesday, December 7, 2022 (based on USA PST Time), Caesar Palace(Room: Pisa), Las Vegas, USA**
+The workshop will be held on **Tuesday, December 7, 2022 (based on USA PST Time), Caesars Palace(Room: Pisa), Las Vegas, USA**
 
 
 
