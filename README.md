@@ -1,6 +1,4 @@
----
-image:fd.jpeg
----
+<img src="fd.jpeg" class="img-responsive" alt=""> </div>
 
 <p align="right">
   in conjunction with
