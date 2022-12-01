@@ -1,5 +1,5 @@
 ---
-image: fd.jpeg
+image:fd.jpeg
 ---
 
 <p align="right">
