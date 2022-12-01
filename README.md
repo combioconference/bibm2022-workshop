@@ -1,4 +1,4 @@
-<img src="fd.jpeg" class="img-responsive" alt=""> </div>
+<img src="fd.jpeg" class="img-responsive" alt=""> 
 
 <p align="right">
   in conjunction with
