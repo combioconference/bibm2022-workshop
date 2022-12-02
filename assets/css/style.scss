@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 header {
-background-image:"fd.jpeg";
+background-image: url("https://combioconference.github.io/bibm2022-workshop/fd.jpeg") !important;
 background-position: center;
 background-size: 100% auto;
 }
