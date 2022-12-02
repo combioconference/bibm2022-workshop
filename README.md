@@ -1,6 +1,6 @@
-<p align="center">
-  <img width=800 src="fd.jpeg" class="img-responsive" alt=""> 
-</p>
+#<p align="center">
+#  <img width=800 src="fd.jpeg" class="img-responsive" alt=""> 
+#</p>
 
 
 <p align="right">
