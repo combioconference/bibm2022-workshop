@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-# logo: url("https://combioconference.github.io/bibm2022-workshop/fd.jpeg")
 title: Computational methods to characterize genomic variants using high-throughput sequencing data
 github:
   is_project_page: false
